@@ -1,3 +1,3 @@
-1 ccminer
+1 ccminer-VRSC
 
-2 xmrigcc
+2 xmrig-XFG
