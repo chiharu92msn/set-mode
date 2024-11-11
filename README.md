@@ -2,4 +2,4 @@
 
 2 xmrig-XFG
 
-3 xmrig-WTIP+Wrkz(file)
+3 xmrig-WTIP+Wrkz
